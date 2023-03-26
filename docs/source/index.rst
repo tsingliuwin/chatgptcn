@@ -11,4 +11,5 @@ Contents
 .. toctree::
 
    Introducing
+   about
    api
