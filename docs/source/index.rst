@@ -12,4 +12,4 @@ ChatGPT中文文档
 
    Introducing
    about
-   api
+   speak
