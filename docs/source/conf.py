@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ChatGPT中文文档'
+copyright = '2023, Tsingliu'
+author = 'Tsingliu'
 
 release = '0.1'
 version = '0.1.0'
