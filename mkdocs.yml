@@ -2,4 +2,5 @@ theme: readthedocs
 site_name: ChatGPT中文文档
 nav:
 - index.md
-- 关于我: about.md
+- about.md
+- notice.md
