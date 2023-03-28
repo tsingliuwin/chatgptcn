@@ -11,7 +11,7 @@ ChatGPT引爆的真智能时代同样会需要应用！
 ##### 5 Movies-ChatGPT创建的首款现象级产品
 就是这么的触不及防，ChatGPT创建的应用——5 Movies悄然上线，瞬间引爆了各大媒体。那么我就带大家一探究竟吧。
 
-![5 Movies](img\c600ddb8d6c7a14b5442056fd77bd18.png)
+![5 Movies](../img/c600ddb8d6c7a14b5442056fd77bd18.png)
 
 首先看一下官方应用介绍：
 

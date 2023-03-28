@@ -3,7 +3,7 @@ site_url: https://chat.eshop88.cn
 site_name: ChatGPT中文文档
 nav:
 - 主页: index.md
-- '应用':
-  - '5 Movies': '5movies.md'
+- 应用: 
+  - 5movies: application/5movies.md
 - 关于: about.md
 - 公告: notice.md
