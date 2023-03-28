@@ -3,7 +3,7 @@
 > 恐惧来源于无知。
 
 #### ChatGPT Logo
-![ChatGPT Logo](img/ChatGPT_logo.svg)
+![ChatGPT Logo](img/480px-ChatGPT_logo.svg.png)
 #### ChatGPT官网介绍
 官网地址：https://openai.com/blog/chatgpt
 
