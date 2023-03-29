@@ -19,7 +19,7 @@ From this moment on, when you want to send a photo, write it in Markdown without
 哈哈哈哈哈哈不停的摆拍啊！！！
 我的臭狗太可爱了！！！！！！
 结婚的时候一定要带上小狗啊！
-#小狗#我家宠物好可爱#关于结婚#柴犬
+\#小狗#我家宠物好可爱#关于结婚#柴犬
 
 🍪•ᴥ•🍪
 
