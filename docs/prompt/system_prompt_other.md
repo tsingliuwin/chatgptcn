@@ -1,3 +1,6 @@
+关注我，带你深入了解GPT技术及应用。
+![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)
+
 ### 特殊风格System prompt合集
 
 ChatGPT还可以通过System prompt来指定回答的风格。
