@@ -5,6 +5,8 @@ nav:
 - 主页: index.md
 - ChatGPT: chatgpt.md
 - OpenAI: openai.md
+- System prompt合集:
+  - 中文合集: prompt/system_prompt_cn.md
 - 应用: 
   - 5movies: application/5movies.md
 - 关于: about.md
