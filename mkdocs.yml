@@ -9,6 +9,7 @@ nav:
   - 中文合集: prompt/system_prompt_cn.md
   - 英文合集: prompt/system_prompt_en.md
   - 特殊风格合集: prompt/system_prompt_other.md
+- 中文测试集: testset.md
 - 应用: 
   - 5movies: application/5movies.md
 - 关于: about.md
