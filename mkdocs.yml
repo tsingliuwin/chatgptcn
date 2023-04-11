@@ -14,6 +14,7 @@ nav:
 - 中文测试集: testset.md
 - 其它GPT:
   - 文心一言: other/wenxin.md
+  - 通义千问: other/qianwen.md
 - 应用: 
   - 5movies: application/5movies.md
 - 关于: about.md
