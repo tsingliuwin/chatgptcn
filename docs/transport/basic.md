@@ -19,7 +19,7 @@
 
 &emsp;&emsp;好，接下来，我们要升级了。假设你给了模型很多很多句话，多到现在网上能找到的资料都给了它。这时候你再输入「我」，我敢打赌它大概不会说「喜欢」了。为什么？简单，见多了世面，眼里怎么可能只有喜欢你三个字。但因为我们考虑的是最大概率，很有可能它每次都会输出同样的话。对，没错，如果每次都只选择下个最大概率的词，你就是会得到同样的话。这种方法叫做Greedy Search（中文叫贪心搜索），很贪，很短视！所以，语言模型都会在这个地方做一些策略，让模型每一步多看几个可能的词，而不是就看那最高的一个，这样继续往下找的时候，你会发现到下一步时，刚刚最大概率的词，如果加上这一步的词，它的路径（两步概率乘积）可能没有刚刚小一点概率的词的路径。举个例子，请看下面这幅图：
 
-![](images/ChatGPT-Intro-1.png)
+![](../img/ChatGPT-Intro-1.png)
 
 （图1：如何预测下一个词）
 
@@ -59,13 +59,13 @@ W·X = Y  # W自然可以是 d×N 维的矩阵
 
 &emsp;&emsp;在深度学习的初期，最著名的语言模型是RNN，Recurrent Neural Network，中文叫循环神经网络。RNN 模型与其他神经网络不同的地方在于，它的节点之间存在循环连接，这使得它能够记住之前的信息，并将它们应用于当前的输入。这种记忆能力使得 RNN 在处理时间序列数据时特别有用，例如预测未来的时间序列数据、自然语言处理等。通俗地说，RNN 就像一个具有记忆功能的人，可以根据之前的经验和知识对当前的情况做出反应，并预测未来的发展趋势。如下图所示：
 
-![](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png)
+![](https://colah.github.io/posts/2015-08-Understanding-LSTMs/../img/RNN-unrolled.png)
 
 （图2：RNN，来自：https://colah.github.io/posts/2015-08-Understanding-LSTMs/）
 
 &emsp;&emsp;右边是左边的展开，A就是参数，X是输入，h就是输出，由于自然语言是Token by Token的，所以就组成了一个序列。那这个参数怎么学习呢？这就要稍微解释一下学习过程，请看下面的图：
 
-![](images/ChatGPT-Intro-2.png)
+![](../img/ChatGPT-Intro-2.png)
 
 （图3：语言模型输入输出）
 
@@ -106,7 +106,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 &emsp;&emsp;Transformer的这种架构从更普遍的角度来看，其实是Seq2Seq架构，大家别慌，这简单来说就是序列到序列模型，也就是输入是一个文本序列，输出是另一个文本序列。翻译就是个很好的例子，我们看下面这个来自Google的GNMT（Google Neutral Machine Translation）的经典图片：
 
-![](images/ChatGPT-Intro-3.gif)
+![](../img/ChatGPT-Intro-3.gif)
 
 （图4：GNMT图示，来自GNMT GitHub：https://github.com/belvo/Google-Neural-Machine-Translation-GNMT-）
 
@@ -134,7 +134,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 &emsp;&emsp;GPT-1和BERT一样，走的是下游任务微调套路，也就是固定住预训练模型不动，然后在不同下游任务上微调一个模型，如下图所示：
 
-![](images/ChatGPT-Intro-4.png)
+![](../img/ChatGPT-Intro-4.png)
 
 （图6：GPT基本结构，来自GPT论文）
 
@@ -142,7 +142,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 &emsp;&emsp;GPT这篇文章还有几个点在当时看起来可能没啥感觉，但现在回看却有点意思（就像乔布斯说的dot）。第一个是预训练层数和任务表现的关系，如左下图所示；第二个是训练参数数量和模型性能关系。
 
-![](images/ChatGPT-Intro-5.png)
+![](../img/ChatGPT-Intro-5.png)
 
 （图7：左图是GPT参数量与效果图，右图是Zero-Shot能力，来自GPT论文）
 
@@ -154,7 +154,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 &emsp;&emsp;GPT发表于2018年6月，GPT-2发表于2019年2月，就是前者的升级版：一个是扩大规模，再就是Zero-Shot。如果说前者是观察到了这个现象，那后者就是进一步研究这个现象。请看下面这张图：
 
-![](images/ChatGPT-Intro-6.png)
+![](../img/ChatGPT-Intro-6.png)
 
 （图8：参数量和Zero-Shot表现，来自GPT-2论文）
 
@@ -201,7 +201,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 &emsp;&emsp;好了，言归正传，RLHF被人熟知应该主要是源自OpenAI的InstructGPT这篇论文，当然更大范围的熟知就是ChatGPT的发布。因为后者没有论文，也没有开源，所以我们也只能拿InstructGPT的管窥一窥ChatGPT的豹。当然，如果按照ChatGPT[官方页面](https://openai.com/blog/chatgpt)的说法，这个「管」可能还比较粗。如果用简单的语言来描述InstructGPT，其实就是用强化学习的算法微调一个根据人类反馈改进的语言模型。重要的是，它调出了效果——1.3B的InstructGPT堪比175B的GPT-3，如下图所示：
 
-![](images/ChatGPT-Intro-7.png)
+![](../img/ChatGPT-Intro-7.png)
 
 （图11：不同策略不同模型效果对比，来自InstructGPT论文）
 
@@ -209,7 +209,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 &emsp;&emsp;好了，现在咱们看看它是如何做的，RLHF在其中又是起了什么作用，如何起作用的。还是那张被到处张贴的图，如果要统计引用率，我感觉这张图绝对不低。
 
-![](images/ChatGPT-Intro-8.png)
+![](../img/ChatGPT-Intro-8.png)
 
 （图12：InstructGPT工作流程，来自InstructGPT论文）
 
