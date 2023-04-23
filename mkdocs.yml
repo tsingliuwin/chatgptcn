@@ -17,5 +17,8 @@ nav:
   - 通义千问: other/qianwen.md
 - 应用: 
   - 5movies: application/5movies.md
+- 转载:
+  - HuggingLLM:
+    - ChatGPT基础科普: transport/basic.md
 - 关于: about.md
 - 公告: notice.md
