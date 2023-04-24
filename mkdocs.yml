@@ -19,5 +19,6 @@ nav:
   - 5movies: application/5movies.md
 - 转载:
   - ChatGPT基础科普: transport/basic.md
+  - 陆奇：我的大模型世界观: transport/my_llm.md
 - 关于: about.md
 - 公告: notice.md
