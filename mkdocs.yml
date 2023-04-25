@@ -15,6 +15,8 @@ nav:
 - 其它GPT:
   - 文心一言: other/wenxin.md
   - 通义千问: other/qianwen.md
+  - 天工助手: other/tiangong.md
+  - 讯飞星火: other/xinghuo.md
 - 应用: 
   - 5movies: application/5movies.md
 - 转载:
