@@ -25,8 +25,8 @@ ChatGPT热度经久不衰，经过了燥热阶段，我们需要静下来好好�
 ![](https://img.soogif.com/xmYfVXskCxTovDjEYIzWqQHNZqdkSNOQ.gif?scope=mdnice)
 
 我们不管用哪种方式体验了ChatGPT的神奇魔力，基本都可以在一瞬间成为了ChatGPT的最佳“代言人”。在被ChatGPT的强大能力所征服的同时，我们是否思考过下面两个问题：
-+ 为什么ChatGPT可以拥有记忆能力？
-+ 是什么在控制ChatGPT的回答？
+1. 为什么ChatGPT可以拥有记忆能力？
+2. 是什么在控制ChatGPT的回答？
 后面我们将针对上述问题逐一进行详细的阐述，敬请期待。
 关注我，了解更多ChatGPT知识。
 
