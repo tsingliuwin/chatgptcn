@@ -7,6 +7,7 @@ nav:
 - OpenAI: openai.md
 - 官方文档:
   - 介绍: documents/introduction.md
+  - 体验: documents/knows.md
 - System prompt合集:
   - 中文合集: prompt/system_prompt_cn.md
   - 英文合集: prompt/system_prompt_en.md
