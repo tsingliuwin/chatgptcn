@@ -12,6 +12,8 @@ nav:
   - 中文合集: prompt/system_prompt_cn.md
   - 英文合集: prompt/system_prompt_en.md
   - 特殊风格合集: prompt/system_prompt_other.md
+- 开源大模型:
+  - ChatGLM-6B: opensource/ChatGLM2-6B.md
 - 中文测试集: testset.md
 - 其它GPT:
   - 文心一言: other/wenxin.md
