@@ -27,6 +27,8 @@ nav:
 - 转载:
   - ChatGPT基础科普: transport/basic.md
   - 陆奇：我的大模型世界观: transport/my_llm.md
+- 自然语言处理:
+  - HanLP: nlp/hanlp.md
 - 工具:
   - 尝鲜chatGPT免费好用的梯子: tools/vpn.md
 - 关于: about.md
