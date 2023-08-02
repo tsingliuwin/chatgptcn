@@ -95,3 +95,6 @@ HanLP是GitHub上最热门，应用最广泛NLP技术；也是众多AI开发人�
 - 情感分析
 
 判断一段文本的情感极性，数值的正负代表正负面情绪
+
+关注我，带你深入了解GPT技术及应用。
+![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)
