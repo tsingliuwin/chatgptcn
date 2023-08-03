@@ -1,5 +1,6 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -7,6 +8,11 @@ export default defineUserConfig({
   description: 'ChatGPT, LLM, 大模型, 大语言模型',
   head: [
     ['meta', {name: 'google-site-verification', content: 'mbC3Y2iTQfTAjqFGZb_eK116Rol1RmRMJTpY8Y8FN5s'}]
+  ],
+  plugins: [
+    googleAnalyticsPlugin({
+      id: 'G-DFSMJB0RMS'
+    })
   ],
   theme: defaultTheme({
     navbar: [
