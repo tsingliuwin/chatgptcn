@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: ChatGPT中文文档
-tagline: 由ChatGPT引发的变革
+tagline: 由ChatGPT引发的变革,准备好了吗
 actions:
     - text: 立即阅读
       link: /chatgpt/
