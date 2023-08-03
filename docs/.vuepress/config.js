@@ -12,18 +12,16 @@ export default defineUserConfig({
         link: '/',
       }
     ],
-    sidebar: 'auto'
-    // ,
-    // sidebar: [
-    //     {
-    //         text: 'hello',
-    //         link: '/hello/'
-    //     },
-    //     {
-    //         text: '你好',
-    //         link: '/bar/about/'
-    //     }
-    // ]
+    sidebar: [
+        {
+            text: 'ChatGPT',
+            link: '/chatgpt/'
+        },
+        {
+            text: 'OpenAI',
+            link: '/openai/'
+        }
+    ]
   })
 })
   
