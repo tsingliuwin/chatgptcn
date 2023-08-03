@@ -1,3 +1,12 @@
+---
+home: true
+heroText: ChatGPT中文文档
+tagline: 由ChatGPT引发的变革
+actions:
+    - text: 立即阅读
+      link: /chatgpt/
+---
+
 在这场由ChatGPT引爆的轰轰烈烈的变革中，机会与挑战并存。
 
 面对未知人们会天生恐惧，静下心来好好了解一下ChatGPT以及GPT相关的技术，相信恐惧会弥散，ChatGPT会让我们的生活更加美好。
