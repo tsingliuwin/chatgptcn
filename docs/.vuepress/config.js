@@ -3,8 +3,8 @@ import { defaultTheme } from 'vuepress'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  title: '数据会说话',
-  description: '记录对数据的所思、所想',
+  title: 'ChatGPT中文文档',
+  description: 'ChatGPT, LLM, 大模型, 大语言模型',
   theme: defaultTheme({
     navbar: [
       {
