@@ -26,7 +26,6 @@ export default defineUserConfig({
         },
         {
           text: '官方文档',
-          link: '/documents/',
           children: [
             {
               text: '介绍',
@@ -44,7 +43,6 @@ export default defineUserConfig({
         },
         {
           text: 'System prompt合集',
-          link: '/prompt/',
           children: [
             {
               text: '中文合集',
@@ -62,7 +60,6 @@ export default defineUserConfig({
         },
         {
           text: 'Hugging Face',
-          link: '/huggingface/',
           children: [
             {
               text: '介绍',
@@ -72,7 +69,6 @@ export default defineUserConfig({
         },
         {
           text: '开源大模型',
-          link: '/opensource/',
           children: [
             {
               text: 'ChatGLM2-6B',
@@ -86,7 +82,6 @@ export default defineUserConfig({
         },
         {
           text: '其它GPT',
-          link: '/other/',
           children: [
             {
               text: '文心一言',
@@ -108,7 +103,6 @@ export default defineUserConfig({
         },
         {
           text: '应用',
-          link: '/application/',
           children: [
             {
               text: '5movies',
@@ -118,7 +112,6 @@ export default defineUserConfig({
         },
         {
           text: '转载',
-          link: '/transport/',
           children: [
             {
               text: 'ChatGPT基础科普',
@@ -132,7 +125,6 @@ export default defineUserConfig({
         },
         {
           text: '自然语言处理',
-          link: '/nlp/',
           children: [
             {
               text: 'HanLP',
