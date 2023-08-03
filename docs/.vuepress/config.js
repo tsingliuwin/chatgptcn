@@ -7,7 +7,8 @@ export default defineUserConfig({
   title: 'ChatGPT中文文档',
   description: 'ChatGPT, LLM, 大模型, 大语言模型',
   head: [
-    ['meta', {name: 'google-site-verification', content: 'mbC3Y2iTQfTAjqFGZb_eK116Rol1RmRMJTpY8Y8FN5s'}]
+    ['meta', {name: 'google-site-verification', content: 'mbC3Y2iTQfTAjqFGZb_eK116Rol1RmRMJTpY8Y8FN5s'}],
+    ['meta', {name: 'baidu-site-verification', content: 'codeva-x6aGkEgMlp'}]
   ],
   plugins: [
     googleAnalyticsPlugin({
