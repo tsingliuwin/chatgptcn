@@ -20,6 +20,18 @@ export default defineUserConfig({
       {
         text: '首页',
         link: '/',
+      },
+      {
+        text: 'ChatGPT',
+        link: '/chatgpt/',
+      },
+      {
+        text: '大数据商业分析',
+        link: 'https://data.eshop88.cn',
+      },
+      {
+        text: 'Sea Tunnel',
+        link: 'http://seatunnel.eshop88.cn'
       }
     ],
     sidebar: [
