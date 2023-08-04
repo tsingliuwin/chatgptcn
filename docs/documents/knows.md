@@ -1,3 +1,5 @@
+**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+
 #### 你真的了解ChatGPT吗？
 ChatGPT热度经久不衰，经过了燥热阶段，我们需要静下来好好思考如何让ChatGPT服务于我们。
 ![](https://img.soogif.com/etKReu7CdakpM9SVtt6rG8YJU6kW695D.gif?imageMogr2/thumbnail/!89.10648001045507p&scope=mdnice)

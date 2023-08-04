@@ -1,3 +1,5 @@
+**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+
 #### Hugging Face
 ##### 引言
 可以说ChatGPT已经到了人尽皆知的程度，如果再把ChatGPT挂在嘴上就有些不咸不淡了。大模型、大语言模型、LLM等专业术语不清楚是否可以让您可以在朋友圈再嘚瑟一下。本文要介绍的Huging Face则足够让您从一位门外汉摇身一变成为大模型内行。

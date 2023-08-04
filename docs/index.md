@@ -6,6 +6,7 @@ actions:
     - text: 立即阅读
       link: /chatgpt/
 ---
+**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
 
 在这场由ChatGPT引爆的轰轰烈烈的变革中，机会与挑战并存。
 

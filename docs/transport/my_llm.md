@@ -1,3 +1,5 @@
+**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+
 #### 陆奇：我的大模型世界观
 
 ![陆奇](../img/luqi.jpg)

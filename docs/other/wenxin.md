@@ -1,3 +1,5 @@
+**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+
 #### 文心一言
 中文版ChatGPT、百度版ChatGPT,寄托着国产希望的文心一言已经发布。作者已经上手体验，总体感觉就是惊鸿一瞥，继续努力。
 #### 官网

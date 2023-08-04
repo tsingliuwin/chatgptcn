@@ -1,3 +1,5 @@
+**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+
 前面我们对ChatGPT已经有了初步的了解，本文来了解一下是怎样的一群人开发了ChatGPT这样一款具有跨时代意义的产品。
 
 #### OpenAI介绍
