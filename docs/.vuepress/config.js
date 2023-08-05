@@ -1,6 +1,7 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+import { sitemapPlugin } from "vuepress-plugin-sitemap2"
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -13,6 +14,9 @@ export default defineUserConfig({
   plugins: [
     googleAnalyticsPlugin({
       id: 'G-DFSMJB0RMS'
+    }),
+    sitemapPlugin({
+      hostname: 'http://chatgptcn.eshop88.cn'
     })
   ],
   theme: defaultTheme({
