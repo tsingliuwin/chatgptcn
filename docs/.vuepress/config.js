@@ -83,6 +83,15 @@ export default defineUserConfig({
           ]
         },
         {
+          text: '问答专区',
+          children: [
+            {
+              text: 'chatgpt在国内可以访问吗？',
+              link: 'QA/canvisit/'
+            }
+          ]
+        },
+        {
           text: 'Hugging Face',
           children: [
             {
