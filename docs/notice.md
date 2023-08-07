@@ -1,3 +1,9 @@
+---
+lang: zh-CN
+title: 通告
+description: chatgpt中文文档
+---
+
 #### 上线
 2023年3月28日上线，码字一步一步来，会好的。
 
