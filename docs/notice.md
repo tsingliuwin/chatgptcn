@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-title: 通告
+title: 公告
 description: chatgpt中文文档
 ---
 
