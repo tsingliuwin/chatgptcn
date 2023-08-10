@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: 'ChatGPT, LLM, 大模型, 大语言模型, ChatGPT4.0, ChatGPT3.5, ChatGPT中文网, ChatGPT中文版',
   head: [
     ['meta', {name: 'google-site-verification', content: 'mbC3Y2iTQfTAjqFGZb_eK116Rol1RmRMJTpY8Y8FN5s'}],
-    ['meta', {name: 'sogou_site_verification', content: 'm8BWd63O2a'}]
+    ['meta', {name: 'sogou_site_verification', content: 'G12J5irIt5'}]
     // <meta name="sogou_site_verification" content="m8BWd63O2a" />
   ],
   plugins: [
