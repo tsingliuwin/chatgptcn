@@ -21,6 +21,3 @@ ChatGPT限制国内访问，也没有中文官网。但是国内众多知名科�
 + 问：ChatGPT有中文文档吗？
 
 ChatGPT暂时没有官方中文文档，但是作为一名技术爱好者，利用业余时间在持续维护ChatGPT中文文档。
-
-关注我，带你深入了解GPT技术及应用。
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)

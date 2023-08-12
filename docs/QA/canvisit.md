@@ -17,6 +17,3 @@ ChatGPT3.5的回答，测试时间:2023-08-05：
 
 #### 推荐ChatGPT3.5
 在上述回答中，ChatGPT的回答更贴合实际。ChatGPT官方会限制国内访问，国内如果是出于对学术的研究目的，需要论证ChatGPT的技术效果，目前可以采用科学上网的方式访问ChatGPT，但是使用ChatGPT还需要注册OpenAI账号，注册OpenAI账号则又需要使用国外手机号。关于ChatGPT详细使用教程可以自行使用百度搜索。
-
-关注我，带你深入了解GPT技术及应用。
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)

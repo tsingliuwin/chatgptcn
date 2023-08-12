@@ -20,6 +20,7 @@ export default defineUserConfig({
     })
   ],
   theme: defaultTheme({
+    lastUpdated: false,
     navbar: [
       {
         text: '首页',
@@ -57,6 +58,10 @@ export default defineUserConfig({
             {
               text: '体验',
               link: '/documents/knows/'
+            },
+            {
+              text: 'ChatGPT为什么拥有记忆力？',
+              link: '/documents/whymemory/'
             },
             {
               text: '快速开始',

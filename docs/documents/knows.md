@@ -36,6 +36,3 @@ ChatGPT热度经久不衰，经过了燥热阶段，我们需要静下来好好�
 2. 是什么在控制ChatGPT的回答？
 
 后面我们将针对上述问题逐一进行详细的阐述，敬请期待。
-关注我，了解更多ChatGPT知识。
-
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)
