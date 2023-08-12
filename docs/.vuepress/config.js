@@ -113,7 +113,7 @@ export default defineUserConfig({
           children: [
             {
               text: 'ChatGLM2-6B',
-              link: '/opensource/ChatGLM-6B/'
+              link: '/opensource/ChatGLM2-6B/'
             }
           ]
         },
