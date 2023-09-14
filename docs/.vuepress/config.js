@@ -1,25 +1,34 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+import { sitemapPlugin } from "vuepress-plugin-sitemap2"
 
 export default defineUserConfig({
   lang: 'zh-CN',
   title: 'ChatGPT中文文档',
-  description: 'ChatGPT, LLM, 大模型, 大语言模型, ChatGPT4.0, ChatGPT3.5',
+  description: 'ChatGPT, LLM, 大模型, 大语言模型, ChatGPT4.0, ChatGPT3.5, ChatGPT中文网, ChatGPT中文版',
   head: [
-    ['meta', {name: 'google-site-verification', content: 'mbC3Y2iTQfTAjqFGZb_eK116Rol1RmRMJTpY8Y8FN5s'}],
-    // ['meta', {name: 'baidu-site-verification', content: 'codeva-x6aGkEgMlp'}]
+    ['meta', {name: 'google-site-verification', content: 'mbC3Y2iTQfTAjqFGZb_eK116Rol1RmRMJTpY8Y8FN5s'}]
+    // <meta name="sogou_site_verification" content="m8BWd63O2a" />
   ],
   plugins: [
     googleAnalyticsPlugin({
       id: 'G-DFSMJB0RMS'
+    }),
+    sitemapPlugin({
+      hostname: 'http://chatgptcn.eshop88.cn'
     })
   ],
   theme: defaultTheme({
+    lastUpdated: false,
     navbar: [
       {
         text: '首页',
         link: '/',
+      },
+      {
+        text: 'ChatGPT应用',
+        link: 'https://gaobao.eshop88.cn'
       },
       {
         text: 'ChatGPT',
@@ -55,6 +64,10 @@ export default defineUserConfig({
               link: '/documents/knows/'
             },
             {
+              text: 'ChatGPT为什么拥有记忆力？',
+              link: '/documents/whymemory/'
+            },
+            {
               text: '快速开始',
               link: '/documents/quickstart/'
             }
@@ -78,6 +91,19 @@ export default defineUserConfig({
           ]
         },
         {
+          text: '问答专区',
+          children: [
+            {
+              text: 'chatgpt在国内可以访问吗？',
+              link: '/QA/canvisit/'
+            },
+            {
+              text: '中文版ChatGPT',
+              link: '/QA/chatgpt_chinese/'
+            }
+          ]
+        },
+        {
           text: 'Hugging Face',
           children: [
             {
@@ -91,7 +117,7 @@ export default defineUserConfig({
           children: [
             {
               text: 'ChatGLM2-6B',
-              link: '/opensource/ChatGLM-6B/'
+              link: '/opensource/ChatGLM2-6B/'
             }
           ]
         },

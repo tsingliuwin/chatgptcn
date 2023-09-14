@@ -27,6 +27,3 @@ ChatGLM2-6B是开源中英双语对话模型ChatGLM-6B的第二代版本，在�
 ChatGLM2-6B权重对学术研究完全开放，在获得官方的书面许可后，亦允许商业使用。为了方便下游开发者针对自己的应用场景定制模型，我们同时实现了基于P-Tuning v2的高效参数微调方法 (使用指南)，INT4量化级别下最低只需7GB显存即可启动微调。
 
 ChatGLM2-6B开源地址：https://github.com/THUDM/ChatGLM2-6B
-
-关注我：
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)

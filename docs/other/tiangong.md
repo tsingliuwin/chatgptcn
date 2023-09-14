@@ -13,6 +13,3 @@
 
 #### 如何使用
 目前天工还没有开放公测，想要使用的同学还需要再耐心的等待一段时间。关注我可以及时获得公测通知。
-
-关注我，带你深入了解GPT技术及应用。
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)

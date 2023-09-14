@@ -50,6 +50,3 @@ Introducing ChatGPT
 5. ChatGPT是目前最先进的聊天机器人之一，可以为人们提供便利和帮助，在未来有望在各个领域得到广泛应用。
 
 通过两个简单的应用，我们体会了ChatGPT的两个能力翻译和总结。相信你一定开始惊叹ChatGPT的神奇了，如果你已经对ChatGPT产生了兴趣，那么就持续关注我吧。
-
-关注我，带你深入了解GPT技术及应用。
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)

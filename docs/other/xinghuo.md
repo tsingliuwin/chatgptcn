@@ -23,6 +23,3 @@
 官网开通了需求调研：https://xinghuo.xfyun.cn/questionnaire
 
 ![讯飞星火需求调研](../img/xinghuo.png)
-
-关注我，带你深入了解GPT技术及应用。
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)

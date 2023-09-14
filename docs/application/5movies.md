@@ -31,6 +31,3 @@ Features:
 这样一款看似简单的应用有什么特别之处吗？没错，你没有猜错，5 Movies这款App是由开发者Morten Petersen通过GPT-4技术制作而成。也就是说，"5 Movies" 是一款完全由AI制作的App。
 
 相信现在的你和我一样深感震惊，现在我们来不及也无需担忧什么。既然又一次站在了时代变革的潮流之上，我们就牢牢抓住机会。我们之所以会担忧皆因为未知，静下心来认真了解GPT相关技术与原理才是王道。
-
-关注我，带你深入了解GPT技术及应用。
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)

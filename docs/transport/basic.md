@@ -264,6 +264,3 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 
 注：本文转载于：https://github.com/datawhalechina/hugging-llm
-
-关注我，带你深入了解GPT技术及应用。
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)
