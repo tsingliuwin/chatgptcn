@@ -27,6 +27,10 @@ export default defineUserConfig({
         link: '/',
       },
       {
+        text: 'ChatGPT应用',
+        link: 'https://gaobao.eshop88.cn'
+      },
+      {
         text: 'ChatGPT',
         link: '/chatgpt/',
       },
