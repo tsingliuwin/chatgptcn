@@ -8,6 +8,8 @@ actions:
 ---
 **最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
 
+**AI助力高考志愿填报：[https://gaobao.eshop88.cn](https://gaobao.eshop88.cn) ,ChatGPT应用尝鲜体验**
+
 在这场由ChatGPT引爆的轰轰烈烈的变革中，机会与挑战并存。
 
 面对未知人们会天生恐惧，静下心来好好了解一下ChatGPT以及GPT相关的技术，相信恐惧会弥散，ChatGPT会让我们的生活更加美好。
@@ -25,4 +27,3 @@ actions:
 
 关注我，带你深入了解GPT技术及应用。
 ![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)
-![1v1直播](./img/1v1.jpeg)
