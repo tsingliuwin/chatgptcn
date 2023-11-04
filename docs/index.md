@@ -10,6 +10,8 @@ actions:
 
 **AI助力高考志愿填报：[https://gaobao.eshop88.cn](https://gaobao.eshop88.cn) ,ChatGPT应用尝鲜体验**
 
+**AI长网页一键截图：[https://longpage.xi-n.com](https://longpage.xi-n.com)**
+
 在这场由ChatGPT引爆的轰轰烈烈的变革中，机会与挑战并存。
 
 面对未知人们会天生恐惧，静下心来好好了解一下ChatGPT以及GPT相关的技术，相信恐惧会弥散，ChatGPT会让我们的生活更加美好。
