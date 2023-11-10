@@ -5,6 +5,10 @@ import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
 <template>
   <ParentLayout>
     <template #page-content-bottom>
+      <h3>重磅福利</h3>
+      <a href="https://www.aliyun.com/minisite/goods?userCode=m87ienyv" target="_blank">
+        <img src="/aliyun99.png">
+      </a>
         <hr /> 
         <h4>关注我，学习大模型。</h4>
       <div class="content-footer">

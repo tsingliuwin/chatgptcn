@@ -23,6 +23,10 @@ export default defineUserConfig({
     lastUpdated: false,
     navbar: [
       {
+        text: '热销：阿里云服务器只需99/年',
+        link: 'https://www.aliyun.com/minisite/goods?userCode=m87ienyv'
+      },
+      {
         text: '首页',
         link: '/',
       },
@@ -44,6 +48,10 @@ export default defineUserConfig({
       }
     ],
     sidebar: [
+        {
+          text: '热销：阿里云服务器只需99/年',
+          link: 'https://www.aliyun.com/minisite/goods?userCode=m87ienyv'
+        },
         {
             text: 'ChatGPT',
             link: '/chatgpt/'
