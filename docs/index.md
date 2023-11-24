@@ -31,7 +31,7 @@ actions:
 
 最近偶然发现了阿里云推出的一个优惠活动，2核2G的服务器只要99/年，并且可以续费多年，香的不得了，瞬间解决我自研小项目无法部署的问题。点击图片查看详情**↓**
 
-[![阿里云](./img/aliyun99.png)](https://www.aliyun.com/minisite/goods?userCode=m87ienyv&chat_rhd_index)
+[![阿里云](./img/aliyun99.jpg)](https://www.aliyun.com/minisite/goods?userCode=m87ienyv)
 
 关注我，带你深入了解GPT技术及应用。
 ![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)

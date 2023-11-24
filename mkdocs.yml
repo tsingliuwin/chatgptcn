@@ -2,7 +2,7 @@ theme: readthedocs
 site_url: https://chat.eshop88.cn
 site_name: ChatGPT中文文档
 nav:
-- 阿里云服务器99元/年: https://www.aliyun.com/minisite/goods?userCode=m87ienyv&chat_rtd
+- 阿里云服务器99元/年: https://www.aliyun.com/minisite/goods?userCode=m87ienyv
 - 主页: index.md
 - ChatGPT: chatgpt.md
 - OpenAI: openai.md
