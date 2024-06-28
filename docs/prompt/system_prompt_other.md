@@ -1,7 +1,7 @@
 **最新内容发布地址：[https://xi-n.com](https://xi-n.com)**
 
 关注我，带你深入了解GPT技术及应用。
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)
+![飞桨PPDB](https://aistudio-llm-static-online.cdn.bcebos.com/2133/2694/20240628160b40caadd0924f97a18bebe0ad21ba66f82dd7edc96d4cf2b1a5063cc1679a2c?x-bce-process=image/resize,m_fill,w_1100,h_400)
 
 ### 特殊风格System prompt合集
 

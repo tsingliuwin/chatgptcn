@@ -15,7 +15,7 @@ chatGPT火了，5天时间就突破百万用户，2.5个月就破亿了。
 无惧封锁：海外企业安全稳定，Trojan、V2Ray协议超强抗封锁
 ※立即使用西部世界: 关注公众号发送：vpn，即可获取链接。
 关注我：
-![飞桨PPDB](https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167)
+![飞桨PPDB](https://aistudio-llm-static-online.cdn.bcebos.com/2133/2694/20240628160b40caadd0924f97a18bebe0ad21ba66f82dd7edc96d4cf2b1a5063cc1679a2c?x-bce-process=image/resize,m_fill,w_1100,h_400)
 
 注意事项：
 1. 安装客户端
