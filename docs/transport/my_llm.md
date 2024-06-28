@@ -1,4 +1,4 @@
-**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+**最新内容发布地址：[https://xi-n.com](https://xi-n.com)**
 
 #### 陆奇：我的大模型世界观
 

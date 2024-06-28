@@ -16,7 +16,7 @@ export default defineUserConfig({
       id: 'G-DFSMJB0RMS'
     }),
     sitemapPlugin({
-      hostname: 'http://chatgptcn.eshop88.cn'
+      hostname: 'https://xi-n.com'
     })
   ],
   theme: defaultTheme({

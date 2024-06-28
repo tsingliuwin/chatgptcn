@@ -3,9 +3,7 @@ lang: zh-CN
 title: ChatGPT
 description: ChatGPT是什么？
 ---
-**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
-
-**AI助力高考志愿填报：[https://gaobao.eshop88.cn](https://gaobao.eshop88.cn) ,ChatGPT应用尝鲜体验**
+**最新内容发布地址：[http://xi-n.com](http://xi-n.com)**
 
 #### ChatGPT是什么？
 很多圈外的朋友都是从朋友圈、公众号、抖音、新闻等社交平台或者媒体上初次听说到ChatGPT，或者是从你身边的朋友、同事哪里获知。三人成虎，听说的多了，难免也会勾起我们的好奇心。但是从只言片语中，我们越听就越像是听神话故事一般，感觉ChatGPT无所不能，甚至以后我们所有人都将被替代，进而面临下岗失业。

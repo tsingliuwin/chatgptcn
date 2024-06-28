@@ -1,6 +1,6 @@
 #### 尝鲜chatGPT免费好用的梯子
 
-**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+**最新内容发布地址：[https://xi-n.com](https://xi-n.com)**
 
 chatGPT火了，5天时间就突破百万用户，2.5个月就破亿了。
 

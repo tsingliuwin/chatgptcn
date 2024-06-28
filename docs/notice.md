@@ -1,4 +1,4 @@
-**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+**最新内容发布地址：[https://xi-n.com](https://xi-n.com)**
 
 #### 上线
 2023年3月28日上线，码字一步一步来，会好的。

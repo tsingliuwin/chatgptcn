@@ -1,4 +1,4 @@
-**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+**最新内容发布地址：[https://xi-n.com](https://xi-n.com)**
 
 #### 天工
 由昆仑万维和奇点智源联合研发的新一代大语言模型天工正式开启邀请测试，宣称是国内首个双千亿级（千亿预训练基座模型和千亿 RLHF（Reinforcement Learning from Human Feedback）模型）大语言模型。

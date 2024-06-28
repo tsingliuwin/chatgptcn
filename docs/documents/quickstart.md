@@ -1,4 +1,4 @@
-**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+**最新内容发布地址：[https://xi-n.com](https://xi-n.com)**
 
 #### 快速开始
 OpenAI已经训练了前沿的语言模型，这些模型在理解和生成文本方面非常出色。我们的API提供对这些模型的访问，可用于解决几乎涉及处理语言的任何任务。

@@ -1,4 +1,4 @@
-**最新内容发布地址：[http://chatgptcn.eshop88.cn](http://chatgptcn.eshop88.cn)**
+**最新内容发布地址：[https://xi-n.com](https://xi-n.com)**
 
 #### 大语言模型中文测试集
 本文介绍的大语言模型中文测试集，全称一个麻瓜的大语言模型中文测试集，由真格基金创建并维护，贡献者有陈芳洲、Peak Ji、代码家、李植、陈万里、戴雨森等。
