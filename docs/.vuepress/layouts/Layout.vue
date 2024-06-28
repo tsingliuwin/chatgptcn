@@ -8,7 +8,7 @@ import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
         <hr /> 
         <h4>关注我，学习大模型。</h4>
       <div class="content-footer">
-        <img src="https://ai-studio-static-online.cdn.bcebos.com/e939f12ab7034a069fb4581dec21bb233473ed75fdd543d683982921ddb69167">
+        <img src="https://aistudio-llm-static-online.cdn.bcebos.com/2133/2694/20240628160b40caadd0924f97a18bebe0ad21ba66f82dd7edc96d4cf2b1a5063cc1679a2c?x-bce-process=image/resize,m_fill,w_1100,h_400">
       </div>
     </template>
   </ParentLayout>
