@@ -23,34 +23,18 @@ export default defineUserConfig({
     lastUpdated: false,
     navbar: [
       {
-        text: '热销：阿里云服务器只需99/年',
-        link: 'https://www.aliyun.com/minisite/goods?userCode=m87ienyv'
-      },
-      {
         text: '首页',
         link: '/',
       },
       {
-        text: 'ChatGPT应用',
-        link: 'https://gaobao.eshop88.cn'
-      },
-      {
-        text: 'ChatGPT',
-        link: '/chatgpt/',
-      },
-      {
-        text: '大数据商业分析',
-        link: 'https://data.eshop88.cn',
-      },
-      {
-        text: 'Sea Tunnel',
-        link: 'http://seatunnel.eshop88.cn'
+        text: '遇码开源技术社区',
+        link: 'https://xi-n.com'
       }
     ],
     sidebar: [
         {
-          text: '热销：阿里云服务器只需99/年',
-          link: 'https://www.aliyun.com/minisite/goods?userCode=m87ienyv'
+          text: '遇码开源技术社区',
+          link: 'https://xi-n.com'
         },
         {
             text: 'ChatGPT',
